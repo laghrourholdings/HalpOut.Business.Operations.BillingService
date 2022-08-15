@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "GatewayService": {
+    "BillingService": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": false,
